@@ -1,0 +1,5 @@
+data/online_retail.csv
+data/*.csv
+exports/
+__pycache__/
+.ipynb_checkpoints/
