@@ -139,7 +139,7 @@ retention_matrix = cohort_matrix.divide(cohort_matrix.iloc[:, 0], axis=0).round(
 
 ## 👤 Author
 
-**Krupa Ashoksinh Parmar** — Data Analyst | Python · SQL · Tableau · PostgreSQL
+**Krupa Ashoksinh Parmar** — Data Engineer | Python · SQL · Tableau · PostgreSQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krupa%20Parmar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/krupa-parmar-a7996210a)
 [![GitHub](https://img.shields.io/badge/GitHub-Krupa03-181717?style=flat&logo=github)](https://github.com/Krupa03)
